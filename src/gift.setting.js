@@ -11,7 +11,7 @@ export const IS_SHOW_RESTART = false;
 // 首页配置
 export const homeConfig = {
   // 标题
-  title: '520送礼抽奖',
+  title: '送礼抽奖',
   // 留言，数组的每一项代表一行
   messages: [
     { key: 'a', wording: '这是第一行文案', },
